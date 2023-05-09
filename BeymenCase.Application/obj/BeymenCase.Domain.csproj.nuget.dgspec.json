@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bahar.cakici\\source\\repos\\BeymenCase\\BeymenCase.Domain\\BeymenCase.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bahar.cakici\\source\\repos\\BeymenCase\\BeymenCase.Domain\\BeymenCase.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bahar.cakici\\source\\repos\\BeymenCase\\BeymenCase.Domain\\BeymenCase.Domain.csproj",
+        "projectName": "BeymenCase.Application",
+        "projectPath": "C:\\Users\\bahar.cakici\\source\\repos\\BeymenCase\\BeymenCase.Domain\\BeymenCase.Domain.csproj",
+        "packagesPath": "C:\\Users\\bahar.cakici\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bahar.cakici\\source\\repos\\BeymenCase\\BeymenCase.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bahar.cakici\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.linktera.xyz/api/v4/projects/173/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

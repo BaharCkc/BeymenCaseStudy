@@ -1,0 +1,12 @@
+C:\Users\bahar.cakici\source\repos\BeymenCase\BeymenCase.Library\obj\Debug\net5.0\BeymenCase.Library.csproj.AssemblyReference.cache
+C:\Users\bahar.cakici\source\repos\BeymenCase\BeymenCase.Library\obj\Debug\net5.0\BeymenCase.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar.cakici\source\repos\BeymenCase\BeymenCase.Library\obj\Debug\net5.0\BeymenCase.Library.AssemblyInfoInputs.cache
+C:\Users\bahar.cakici\source\repos\BeymenCase\BeymenCase.Library\obj\Debug\net5.0\BeymenCase.Library.AssemblyInfo.cs
+C:\Users\bahar.cakici\source\repos\BeymenCase\BeymenCase.Library\obj\Debug\net5.0\BeymenCase.Library.csproj.CoreCompileInputs.cache
+C:\Users\bahar.cakici\source\repos\BeymenCase\BeymenCase.Library\bin\Debug\net5.0\BeymenCase.Library.deps.json
+C:\Users\bahar.cakici\source\repos\BeymenCase\BeymenCase.Library\bin\Debug\net5.0\BeymenCase.Library.dll
+C:\Users\bahar.cakici\source\repos\BeymenCase\BeymenCase.Library\bin\Debug\net5.0\BeymenCase.Library.pdb
+C:\Users\bahar.cakici\source\repos\BeymenCase\BeymenCase.Library\obj\Debug\net5.0\BeymenCase.Library.dll
+C:\Users\bahar.cakici\source\repos\BeymenCase\BeymenCase.Library\obj\Debug\net5.0\refint\BeymenCase.Library.dll
+C:\Users\bahar.cakici\source\repos\BeymenCase\BeymenCase.Library\obj\Debug\net5.0\BeymenCase.Library.pdb
+C:\Users\bahar.cakici\source\repos\BeymenCase\BeymenCase.Library\obj\Debug\net5.0\ref\BeymenCase.Library.dll
